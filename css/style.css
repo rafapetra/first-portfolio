@@ -27,3 +27,7 @@ body {
   font-size: large;
   text-align: center;
 }
+
+.highlight {
+  color: green;
+}
