@@ -1,0 +1,29 @@
+body {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  background-color: #CCCCCC;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+}
+
+.column {
+  height: 10%;
+  width: 550px;
+  border: 1px solid green;
+  background-color: #E7E7E7;
+  padding: 7px;
+  margin: 20px;
+  }
+
+.column img {
+  width: 190px;
+  float: left;
+  padding: 8px;
+}
+
+.column h1 {
+  color: green;
+  font-size: large;
+  text-align: center;
+}
