@@ -11,10 +11,13 @@ a {
   color: green;
 }
 
+a:hover {
+  color: white;
+}
 .column {
   height: 10%;
   width: 550px;
-  border: 1px solid green;
+  border: 1px solid #294f4d;
   background-color: #E7E7E7;
   padding: 7px;
   margin: 20px;
@@ -27,7 +30,7 @@ a {
 }
 
 .column h1 {
-  color: green;
+  color:#294f4d;
   font-size: large;
   text-align: center;
 }
