@@ -23,7 +23,7 @@ a:hover {
   margin: 20px;
   }
 
-.column img {
+.profile {
   width: 190px;
   float: left;
   padding: 8px;
@@ -37,4 +37,11 @@ a:hover {
 
 .highlight {
   color: green;
+}
+
+.icon { 
+  width: 17px;
+  background:transparent;
+  float: left;
+  padding: 2px;
 }
