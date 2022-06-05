@@ -17,7 +17,7 @@ _This website displays links to 3 projects from Rafael's portfolio, as well as a
 
 1. Clone this repository to your desktop.
 2. Navigate to the top level of the directory.
-3. Open cupcake/index.html in your browser.
+3. Open index.html in your browser.
 
 ## Known Bugs
 
