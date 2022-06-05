@@ -1,8 +1,8 @@
-# _Rafael Petrachini - Portfolio_
+# Rafael Petrachini - Portfolio
 
 #### By _Rafael Petrachini_
 
-#### _Website showing Rafael's portfolio with links to his projects._
+Website showing Rafael's portfolio with links to his projects.
 
 ## Technologies Used
 
