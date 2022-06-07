@@ -2,7 +2,7 @@
 
 #### By _Rafael Petrachini_
 
-Website showing Rafael's portfolio with links to his projects.
+Website showing Rafael's portfolio with links to his projects.\
 https://rafapetra.github.io/portfolio/
 
 ## Technologies Used
